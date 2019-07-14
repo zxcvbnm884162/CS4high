@@ -101,6 +101,9 @@ python有許多內建函數
 ## 6.3.模組:將功能相近的函數何在一起成模組
 ```
 內建模組:超多
+binascii:
+base64::是一種任意二進位到文本字串的編碼方法，常用於在URL、Cookie、網頁中傳輸少量二進位資料
+hashlib::提供了常見的雜湊演算法，如MD5，SHA1
 
 第三方模組:更多
 (1)資料分析Data Analytics與資料科學Data science:Numpy(超強的陣列運算)＋Matplotlib(資料視覺化)+Pandas
