@@ -12,6 +12,9 @@ Python 3和Python 2的主要差異
 [4]使用Ubuntu/Kali/Centos上的python開發環境
 [5]在Ubuntu平台上安裝anaconda
 ```
+```
+!pip list
+```
 # 3.輸入與輸出 USER INPUTS AND OUTPUTS
 
 ```
