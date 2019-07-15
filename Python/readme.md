@@ -14,6 +14,7 @@ Python 3和Python 2的主要差異
 ```
 ```
 !pip list
+https://www.runoob.com/python3/python3-tutorial.html
 ```
 # 3.輸入與輸出 USER INPUTS AND OUTPUTS
 
