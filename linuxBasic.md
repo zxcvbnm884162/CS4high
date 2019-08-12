@@ -157,3 +157,6 @@ CTF
 
 https://github.com/happyhackinghigh/ctf
 ```
+
+
+dd if=carter.jpg of=dargon.jpg bs=1 skip=140147
