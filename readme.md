@@ -5,7 +5,7 @@
 譯者： 陳玄玲  華泰文化出版社
 ```
 
-# Python程式設計
+# Python程式設計   https://colab.research.google.com
 ```
 用 Python 學運算思維
 Get Programming: Learn to code with Python
