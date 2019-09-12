@@ -17,7 +17,8 @@ F9751
 ```
 # Python入門證照
 ```
-
+MTA Python
+https://www.microsoft.com/zh-tw/learning/exam-98-381.aspx
 ```
 
 # 本學期證照輔導班
